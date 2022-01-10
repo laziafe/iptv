@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Golf Channel HD
-rtmp://89.248.172.145:1935/edge/_definst_/ts6w24dx29tcwi4
-#EXTINF:-1,Golf channel
-rtmp://89.248.172.145:1935/edge/_definst_/lw1kufim1kmit1h
 #EXTINF:-1,WoW: Gazi Tv
 https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1,WoW: Maasranga
